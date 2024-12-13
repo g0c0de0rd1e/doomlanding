@@ -1,0 +1,14 @@
+.portfolio-slider .swiper-button-next,
+.portfolio-slider .swiper-button-prev {
+  color: white;
+}
+
+.portfolio-slider .swiper-pagination-bullet {
+  background: white;
+  opacity: 0.5;
+}
+
+.portfolio-slider .swiper-pagination-bullet-active {
+  background: #ef4444;
+  opacity: 1;
+}
